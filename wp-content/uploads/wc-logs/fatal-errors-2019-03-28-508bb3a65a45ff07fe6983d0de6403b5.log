@@ -1,0 +1,46 @@
+2019-03-28T01:33:29+00:00 CRITICAL Out of memory (allocated 10485760) (tried to allocate 24576 bytes) in /var/www/html/wordpress/wp-includes/wp-db.php on line 1889
+
+2019-03-28T01:38:10+00:00 CRITICAL Out of memory (allocated 14680064) (tried to allocate 32768 bytes) in /var/www/html/wordpress/wp-includes/class.wp-scripts.php on line 448
+
+2019-03-28T01:38:52+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 294912 bytes) in /var/www/html/wordpress/wp-includes/pomo/mo.php on line 272
+
+2019-03-28T01:38:59+00:00 CRITICAL Out of memory (allocated 8388608) (tried to allocate 20480 bytes) in /var/www/html/wordpress/wp-includes/meta.php on line 916
+
+2019-03-28T01:42:17+00:00 CRITICAL Out of memory (allocated 4194304) (tried to allocate 20480 bytes) in /var/www/html/wordpress/wp-includes/wp-db.php on line 1889
+
+2019-03-28T01:42:17+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 20480 bytes) in /var/www/html/wordpress/wp-includes/meta.php on line 916
+
+2019-03-28T01:54:10+00:00 CRITICAL Out of memory (allocated 10485760) (tried to allocate 20480 bytes) in /var/www/html/wordpress/wp-content/plugins/mailpoet/vendor/twig/twig/src/TwigFunction.php on line 43
+
+2019-03-28T01:55:59+00:00 CRITICAL Out of memory (allocated 4194304) (tried to allocate 20480 bytes) in /var/www/html/wordpress/wp-includes/meta.php on line 916
+
+2019-03-28T01:56:12+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 20480 bytes) in /var/www/html/wordpress/wp-content/plugins/revslider/includes/operations.class.php on line 803
+
+2019-03-28T01:56:40+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 20480 bytes) in /var/www/html/wordpress/wp-includes/meta.php on line 916
+
+2019-03-28T01:56:41+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 135168 bytes) in /var/www/html/wordpress/wp-includes/formatting.php on line 2843
+
+2019-03-28T01:56:57+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 77824 bytes) in /var/www/html/wordpress/wp-content/plugins/contact-form-7/settings.php on line 62
+
+2019-03-28T01:57:48+00:00 CRITICAL Uncaught Exception: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away in /var/www/html/wordpress/wp-content/plugins/mailpoet/lib/Models/Model.php:346
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/plugins/cmsmasters-content-composer/inc/shortcodes.php(7178): MailPoet\Models\Model::__callStatic('findOne', Array)
+#1 /var/www/html/wordpress/wp-includes/shortcodes.php(319): Cmsmasters_Shortcodes->cmsmasters_mailpoet(Array, '', 'cmsmasters_mail...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /var/www/html/wordpress/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(cmsmas...', 'do_shortcode_ta...', '<p>[cmsmasters_...')
+#4 /var/www/html/wordpress/wp-content/plugins/cmsmasters-content-composer/inc/shortcodes.php(924): do_shortcode('<p>[cmsmasters_...')
+#5 /var/www/html/wordpress/wp-includes/shortcodes.php(319): Cmsmasters_Shortcodes->cmsmasters_column(Array, '[cmsmasters_div...', 'cmsmasters_colu...')
+#6 [internal function]: do_shortcode_tag(Array)
+#7 /var/www/html/wordpres in /var/www/html/wordpress/wp-content/plugins/mailpoet/lib/Models/Model.php on line 346
+
+2019-03-28T01:57:49+00:00 CRITICAL Uncaught Exception: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away in /var/www/html/wordpress/wp-content/plugins/mailpoet/lib/Models/Model.php:346
+Stack trace:
+#0 /var/www/html/wordpress/wp-content/plugins/cmsmasters-content-composer/inc/shortcodes.php(7178): MailPoet\Models\Model::__callStatic('findOne', Array)
+#1 /var/www/html/wordpress/wp-includes/shortcodes.php(319): Cmsmasters_Shortcodes->cmsmasters_mailpoet(Array, '', 'cmsmasters_mail...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /var/www/html/wordpress/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(cmsmas...', 'do_shortcode_ta...', '<p>[cmsmasters_...')
+#4 /var/www/html/wordpress/wp-content/plugins/cmsmasters-content-composer/inc/shortcodes.php(924): do_shortcode('<p>[cmsmasters_...')
+#5 /var/www/html/wordpress/wp-includes/shortcodes.php(319): Cmsmasters_Shortcodes->cmsmasters_column(Array, '[cmsmasters_div...', 'cmsmasters_colu...')
+#6 [internal function]: do_shortcode_tag(Array)
+#7 /var/www/html/wordpres in /var/www/html/wordpress/wp-content/plugins/mailpoet/lib/Models/Model.php on line 346
+

@@ -1,0 +1,2 @@
+2019-03-25T01:13:30+00:00 CRITICAL Out of memory (allocated 14680064) (tried to allocate 20480 bytes) in /var/www/html/wordpress/wp-includes/pomo/translations.php on line 95
+

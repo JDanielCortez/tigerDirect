@@ -1,0 +1,26 @@
+2019-03-24T19:36:03+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 266240 bytes) in /var/www/html/wordpress/wp-includes/pomo/streams.php on line 110
+
+2019-03-24T21:38:48+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 20480 bytes) in /var/www/html/wordpress/wp-includes/taxonomy.php on line 207
+
+2019-03-24T21:38:57+00:00 CRITICAL Out of memory (allocated 4194304) (tried to allocate 20480 bytes) in /var/www/html/wordpress/wp-includes/functions.php on line 330
+
+2019-03-24T21:47:53+00:00 CRITICAL Out of memory (allocated 8388608) (tried to allocate 266240 bytes) in /var/www/html/wordpress/wp-includes/pomo/streams.php on line 110
+
+2019-03-24T21:50:49+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 4096 bytes) in /var/www/html/wordpress/wp-includes/pomo/streams.php on line 81
+
+2019-03-24T21:57:27+00:00 CRITICAL Out of memory (allocated 8388608) (tried to allocate 20480 bytes) in /var/www/html/wordpress/wp-includes/functions.php on line 330
+
+2019-03-24T21:57:59+00:00 CRITICAL Out of memory (allocated 4194304) (tried to allocate 36864 bytes) in /var/www/html/wordpress/wp-includes/wp-db.php on line 1890
+
+2019-03-24T22:43:48+00:00 CRITICAL Out of memory (allocated 16777216) (tried to allocate 708608 bytes) in /var/www/html/wordpress/wp-includes/class.wp-scripts.php on line 413
+
+2019-03-24T22:53:31+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 36864 bytes) in /var/www/html/wordpress/wp-includes/wp-db.php on line 1890
+
+2019-03-24T22:54:06+00:00 CRITICAL Out of memory (allocated 4194304) (tried to allocate 4096 bytes) in /var/www/html/wordpress/wp-includes/pomo/streams.php on line 81
+
+2019-03-24T22:54:53+00:00 CRITICAL Out of memory (allocated 4194304) (tried to allocate 20480 bytes) in /var/www/html/wordpress/wp-includes/functions.php on line 330
+
+2019-03-24T23:15:42+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 4096 bytes) in /var/www/html/wordpress/wp-includes/pomo/mo.php on line 289
+
+2019-03-24T23:16:26+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 20480 bytes) in /var/www/html/wordpress/wp-includes/functions.php on line 330
+
