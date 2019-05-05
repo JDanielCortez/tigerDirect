@@ -35,20 +35,23 @@ $cmsmasters_option = good_food_get_global_options();
 <!-- Start Main -->
 <div id="main">
 
-<!-- Start Header -->
+<!-- Start Header-->
 <header id="header">
 	<?php 
 	do_action('cmsmasters_before_header', $cmsmasters_option);
 	
-	get_template_part('theme-framework/theme-style' . CMSMASTERS_THEME_STYLE . '/template/header-top');
+	//get_template_part('theme-framework/theme-style' . CMSMASTERS_THEME_STYLE . '/template/header-top');
 	
-	get_template_part('theme-framework/theme-style' . CMSMASTERS_THEME_STYLE . '/template/header-mid');
+	//get_template_part('theme-framework/theme-style' . CMSMASTERS_THEME_STYLE . '/template/header-mid');
 	
-	get_template_part('theme-framework/theme-style' . CMSMASTERS_THEME_STYLE . '/template/header-bot');
+	//get_template_part('theme-framework/theme-style' . CMSMASTERS_THEME_STYLE . '/template/header-bot');
+	//
+	
+	do_action('stm_hb', array('header' => 'stm_hb_settings'));
 	
 	do_action('cmsmasters_after_header', $cmsmasters_option);
 	?>
-</header>
+</header> 
 <!-- Finish Header -->
 
 

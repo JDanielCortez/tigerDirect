@@ -2187,7 +2187,7 @@
 	.cmsmasters_pricing_table .pricing_best .cmsmasters_pricing_item_inner .cmsmasters_period, 
 	.cmsmasters_pricing_table .pricing_best .feature_list a, 
 	.cmsmasters_heading_wrap.cmsmasters_heading_shaped .cmsmasters_heading {
-		color:#f9f9f9;
+		color:#fffef7;
 	}
 	
 	body,
@@ -2208,20 +2208,20 @@
 	.cmsmasters_pricing_table .pricing_best .pricing_title_wrap .pricing_title, 
 	.cmsmasters_pricing_table .pricing_best .cmsmasters_button, 
 	.cmsmasters_print_button	{
-		background-color:#f9f9f9;
+		background-color:#fffef7;
 	}
 	
 	.cmsmasters_tabs.tabs_mode_tour.tabs_pos_right .cmsmasters_tabs_list .cmsmasters_tabs_list_item.current_tab {
-		border-left-color:#f9f9f9;
+		border-left-color:#fffef7;
 	}
 	
 	.cmsmasters_tabs.tabs_mode_tour.tabs_pos_left .cmsmasters_tabs_list .cmsmasters_tabs_list_item.current_tab {
-		border-right-color:#f9f9f9;
+		border-right-color:#fffef7;
 	}
 	
 	@media only screen and (min-width: 950px) {
 		.cmsmasters_tabs.tabs_mode_tab .cmsmasters_tabs_list .cmsmasters_tabs_list_item.current_tab {
-			border-bottom-color:#f9f9f9;
+			border-bottom-color:#fffef7;
 		}
 	}
 	/* Finish Main Background Color */
@@ -2507,26 +2507,26 @@
 	
 	.cmsmasters_button.cmsmasters_but_bg_hover {
 		border-color:#005cb9;
-		background-color:#f9f9f9;
+		background-color:#fffef7;
 		color:#005cb9;
 	}
 	
 	.cmsmasters_button.cmsmasters_but_bg_hover:hover {
 		border-color:#005cb9;
 		background-color:#005cb9;
-		color:#f9f9f9;
+		color:#fffef7;
 	}
 	
 	
 	.cmsmasters_button.cmsmasters_but_bd_underline {
 		border-color:#005cb9;
-		background-color:#f9f9f9;
+		background-color:#fffef7;
 		color:#005cb9;
 	}
 	
 	.cmsmasters_button.cmsmasters_but_bd_underline:hover {
-		border-color:#f9f9f9;
-		background-color:#f9f9f9;
+		border-color:#fffef7;
+		background-color:#fffef7;
 		color:#005cb9;
 	}
 	
@@ -2539,7 +2539,7 @@
 	.cmsmasters_button.cmsmasters_but_bg_expand_hor, 
 	.cmsmasters_button.cmsmasters_but_bg_expand_diag {
 		border-color:#005cb9;
-		background-color:#f9f9f9;
+		background-color:#fffef7;
 		color:#005cb9;
 	}
 	
@@ -2551,8 +2551,8 @@
 	.cmsmasters_button.cm.sms_but_bg_expand_hor:hover, 
 	.cmsmasters_button.cmsmasters_but_bg_expand_diag:hover {
 		border-color:#005cb9;
-		background-color:#f9f9f9;
-		color:#f9f9f9;
+		background-color:#fffef7;
+		color:#fffef7;
 	}
 	
 	.cmsmasters_button.cmsmasters_but_bg_slide_left:after, 
@@ -2568,12 +2568,12 @@
 	
 	.cmsmasters_button.cmsmasters_but_shadow {
 		background-color:#005cb9;
-		color:#f9f9f9;
+		color:#fffef7;
 	}
 	
 	.cmsmasters_button.cmsmasters_but_shadow:hover {
 		background-color:#005cb9;
-		color:#f9f9f9;
+		color:#fffef7;
 	}
 	
 	
@@ -2581,24 +2581,24 @@
 	.cmsmasters_button.cmsmasters_but_icon_light_bg, 
 	.cmsmasters_button.cmsmasters_but_icon_divider {
 		background-color:#005cb9;
-		color:#f9f9f9;
+		color:#fffef7;
 	}
 	
 	.cmsmasters_button.cmsmasters_but_icon_dark_bg:hover, 
 	.cmsmasters_button.cmsmasters_but_icon_light_bg:hover, 
 	.cmsmasters_button.cmsmasters_but_icon_divider:hover {
 		background-color:#005cb9;
-		color:#f9f9f9;
+		color:#fffef7;
 	}
 	
 	.cmsmasters_button.cmsmasters_but_icon_divider:after {
-		border-right-color:#f9f9f9;
+		border-right-color:#fffef7;
 	}
 	
 	.cmsmasters_button.cmsmasters_but_icon_inverse {
 		border-color:#005cb9;
 		background-color:#005cb9;
-		color:#f9f9f9;
+		color:#fffef7;
 	}
 	
 	.cmsmasters_button.cmsmasters_but_icon_inverse:before {
@@ -2606,17 +2606,17 @@
 	}
 	
 	.cmsmasters_button.cmsmasters_but_icon_inverse:after {
-		background-color:#f9f9f9;
+		background-color:#fffef7;
 	}
 	
 	.cmsmasters_button.cmsmasters_but_icon_inverse:hover {
 		border-color:#005cb9;
-		background-color:#f9f9f9;
+		background-color:#fffef7;
 		color:#005cb9;
 	}
 	
 	.cmsmasters_button.cmsmasters_but_icon_inverse:hover:before {
-		color:#f9f9f9;
+		color:#fffef7;
 	}
 	
 	.cmsmasters_button.cmsmasters_but_icon_inverse:hover:after {
@@ -2627,7 +2627,7 @@
 	.cmsmasters_button.cmsmasters_but_icon_slide_left, 
 	.cmsmasters_button.cmsmasters_but_icon_slide_right {
 		border-color:#005cb9;
-		background-color:#f9f9f9;
+		background-color:#fffef7;
 		color:#005cb9;
 	}
 	
@@ -2635,7 +2635,7 @@
 	.cmsmasters_button.cmsmasters_but_icon_slide_right:hover {
 		border-color:#005cb9;
 		background-color:#005cb9;
-		color:#f9f9f9;
+		color:#fffef7;
 	}
 	
 	
@@ -2645,7 +2645,7 @@
 	.cmsmasters_button.cmsmasters_but_icon_hover_slide_bottom {
 		border-color:#005cb9;
 		background-color:#005cb9;
-		color:#f9f9f9;
+		color:#fffef7;
 	}
 	
 	.cmsmasters_button.cmsmasters_but_icon_hover_slide_left:hover, 
@@ -2654,7 +2654,7 @@
 	.cmsmasters_button.cmsmasters_but_icon_hover_slide_bottom:hover {
 		border-color:#005cb9;
 		background-color:#005cb9;
-		color:#f9f9f9;
+		color:#fffef7;
 	}
 
 /***************** Finish Default Button Color Scheme Rules ******************/
@@ -6824,7 +6824,7 @@
 /***************** Start Gutenberg Module Custom Colors Scheme Rules ******************/
 
 	 div.wp-block ul > li:before {
-		background-color:#f9f9f9;
+		background-color:#fffef7;
 	}
 	
 	 .wp-block-quote,
@@ -6958,12 +6958,12 @@
 	
 	/* Start Main Background Color */
 	 .wp-block-pullquote.is-style-solid-color {
-		color:#f9f9f9;
+		color:#fffef7;
 	}
 	
 	body .editor-styles-wrapper,
 	.editor-styles-wrapper select {
-		background-color:#f9f9f9;
+		background-color:#fffef7;
 	}
 	/* Finish Main Background Color */
 	
@@ -6988,7 +6988,7 @@
 	 .wp-block-button .wp-block-button__link:not(.has-text-color):not(.has-background),
 	 .wp-block-file .wp-block-file__button,
 	 .wp-block-file a.wp-block-file__button {
-		color:#f9f9f9;
+		color:#fffef7;
 		background-color:#005cb9;
 	}
 	
@@ -7001,20 +7001,20 @@
 	 .wp-block-file a.wp-block-file__button:hover,
 	 .wp-block-file a.wp-block-file__button:focus,
 	 .wp-block-file a.wp-block-file__button:active {
-		color:#f9f9f9;
+		color:#fffef7;
 		background-color:#8e9092;
 	}
 	
 	 .wp-block-button.is-style-outline .wp-block-button__link:not(.has-text-color):not(.has-background) {
 		color:#005cb9;
-		background-color:#f9f9f9;
+		background-color:#fffef7;
 		border-color:#005cb9;
 	}
 	
 	 .wp-block-button.is-style-outline .wp-block-button__link:not(.has-text-color):not(.has-background):hover,
 	 .wp-block-button.is-style-outline .wp-block-button__link:not(.has-text-color):not(.has-background):focus,
 	 .wp-block-button.is-style-outline .wp-block-button__link:not(.has-text-color):not(.has-background):active {
-		color:#f9f9f9;
+		color:#fffef7;
 		background-color:#005cb9;
 		border-color:#005cb9;
 	}
@@ -7160,7 +7160,7 @@
 	.woocommerce-store-notice, 
 	.woocommerce-store-notice p a, 
 	.woocommerce-store-notice p a:hover {
-		color:#f9f9f9;
+		color:#fffef7;
 	}
 	
 
@@ -7180,7 +7180,7 @@
 	.cmsmasters_product .cmsmasters_product_add_inner .button, 
 	.woocommerce-EditAccountForm	fieldset, 
 	.woocommerce-EditAccountForm	fieldset legend {
-		background-color:#f9f9f9;
+		background-color:#fffef7;
 	}
 	/* Finish Main Background Color */
 	
@@ -8490,25 +8490,25 @@
 	.cmsmasters_event_month, 
 	#tribe-bar-views.tribe-bar-views-open .button,
 	.event_bg {
-		color:#f9f9f9;
+		color:#fffef7;
 	}
 	
 	.tribe-events-tooltip:after {
-		border-top-color:#f9f9f9;
+		border-top-color:#fffef7;
 	}
 	
 	.recurringinfo .recurring-info-tooltip:after {
-		border-bottom-color:#f9f9f9;
+		border-bottom-color:#fffef7;
 	}
 	
 	.tribe-events-grid .tribe-events-day-column-0 .tribe-events-tooltip:after, 
 	.tribe-events-grid .tribe-events-day-column-6 .tribe-events-tooltip:after, 
 	.tribe-events-grid .tribe-events-day-column-5 .tribe-events-tooltip:after {
-		border-left-color:#f9f9f9;
+		border-left-color:#fffef7;
 	}
 	
 	.tribe-events-grid .tribe-week-event .tribe-events-tooltip:after {
-		border-right-color:#f9f9f9;
+		border-right-color:#fffef7;
 	}
 	
 	.tribe-events-grid .tribe-week-event .vevent .entry-title a,
@@ -8519,7 +8519,7 @@
 	.tribe-events-grid .tribe-scroller, 
 	.tribe-events-grid .tribe-week-grid-hours, 
 	.tribe-events-sub-nav li span:not([class]) {
-		background-color:#f9f9f9;
+		background-color:#fffef7;
 	}
 	/* Finish Main Background Color */
 	
